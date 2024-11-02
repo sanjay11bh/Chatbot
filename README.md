@@ -31,5 +31,4 @@ To use this project, install dependencies as specified in the requirements.txt f
 Integration with additional knowledge sources.
 Testing with Groq hardware for enhanced performance.
 Expanded support for multi-turn conversations.
-###### License
-This project is licensed under the MIT License.
+
